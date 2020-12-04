@@ -10,6 +10,8 @@ namespace Zenekadatbazis
     {
         static void Main(string[] args)
         {
+
+
         }
     }
 }
